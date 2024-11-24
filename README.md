@@ -1,0 +1,13 @@
+## FundAPlant | Unity 3D AR Project
+- Project initialized as "Mobile 3D"
+- Packages installed: 
+  - AR, includes:
+    - AR Foundation
+    - Apple ARKit XR Plugin
+    - XR Interaction Toolkit
+    - Magic Leap XR Plugin
+    - OpenXR Plugin
+  - Mobile, includes:
+    - Android Logcat
+    - Adaptive Performance
+    - Mobile Notifications
