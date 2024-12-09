@@ -1150,6 +1150,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eadd11b306e4fe1489c2969822d5c29f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  logo: {fileID: 0}
+  displayTime: 3
+  arCamera: {fileID: 0}
+  scanArea: {fileID: 0}
+  scrollView: {fileID: 0}
 --- !u!1 &1936353497
 GameObject:
   m_ObjectHideFlags: 0
